@@ -1,0 +1,14 @@
+Inercia --> mide la distancia que hay entre los puntos y su centroide
+
+Factor de silueta --> Mide que los puntos de un cluster están más alejados de otros centroides, además de la inercia
+
+k-medoide --> Los centroides tienen que ser puntos de verdad (antes eran puntos aleatorios en la grafica)
+
+
+DBSCAN --> Para agrupar de forma no lineal
+
+- CORE --> Puntos que tienen al menos n (lo decides tu) puntos en su radio (EPSILON) de influencia
+- BORDER --> Puntos que no tienen n puntos en su radio de influencia pero tienen un CORE 
+- NOISE --> Puntos que no tienen n puntos en su radio de influencia y tampoco un CORE
+
+
