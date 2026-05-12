@@ -1,7 +1,0 @@
-REDES NEURONALES CONVOLUCIONALES
-
-Convoluciones --> operación matemática que combina 2 funciones (matriz original + filtro)
-Operación lineal
-Si utilizas BIAS, se añade un vector al output, que es tan largo como el numero de filtros.
-
-Por qué me interesa añadir función de activación a las neuronas? Para evitar que la salida sea lineal
